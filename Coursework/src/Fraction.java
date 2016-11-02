@@ -9,7 +9,7 @@ import java.util.ArrayList;
  *
  */
 public class Fraction {
-    
+    //Repository test.
     //Attribute declaration:
     private BigInteger numerator;
     private BigInteger denominator;
