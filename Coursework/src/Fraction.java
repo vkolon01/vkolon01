@@ -1,5 +1,4 @@
 import java.math.BigInteger;
-import java.util.ArrayList;
 
 /**
  * The class Fraction is a datatype for representing fractions. In a/b a being
