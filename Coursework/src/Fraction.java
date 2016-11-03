@@ -1,9 +1,9 @@
 import java.math.BigInteger;
 
 /**
- * The class Fraction is a datatype for representing fractions. In a/b a being
- * the decimal and b being the fraction.
- * 
+ * This class is a datatype for representing fractions.
+ * This class contains two  instance variables. Numerator and denominator.
+ *
  * @author vkolon01
  *
  */
